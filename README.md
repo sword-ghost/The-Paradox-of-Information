@@ -7,9 +7,9 @@ consequences of the mechanisms of knowing;
 
 -knowledge is the linguistic encapsulation of information within the boundaries of a definition
 
--infinite unique encapsulations are possible but all can be said to = [aspect of the universe], or a *thing*.
+-infinite unique encapsulations are possible but all can be said to = [aspect of the universe] or a *thing*.
 
--Defining or naming a thing is the linguistic encapsulation and representation of symmetries found within patterns abstracted from observing something. These abstractions, approximations and correlations are not a true representation of the thing observed as information is necessarily lost/distorted/biased by the very process of abstraction and association involved in producing a [representative linguistic encapsulation] or *thing* 
+-Defining or naming a thing is the linguistic encapsulation and representation of symmetries found within patterns abstracted from observing [aspect of the universe] or some thing. These abstractions, approximations and correlations are not a true representation of the thing observed as information is necessarily lost/distorted/biased by the very process of abstraction and association involved in producing a [representative linguistic encapsulation] or *thing* 
 
 -The name given to a thing implies and contains the qualities and properties determining by degrees it's relevance and relationship to all the other things that have been named 🕸️
 
