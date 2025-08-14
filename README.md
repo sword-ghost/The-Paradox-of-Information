@@ -1,5 +1,7 @@
 # The-Paradox-of-Information
 An exploration of language as a zero information world modeling and prediction engine.
+## Main Document
+Read the full report: [The Generative Paradox PDF](./The-Generative-Paradox.pdf)
 
 "calling things by their true names is the beginning of wisdom" - Lao Tzu
 
